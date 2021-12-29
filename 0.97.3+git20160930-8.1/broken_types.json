@@ -1,0 +1,4647 @@
+{
+    "Cisco - SVX (interchangeable with End office)": {
+        "version": 1, 
+        "name": "Cisco - SVX (interchangeable with End office)", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.012421
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.079924, 
+                        -0.214176
+                    ], 
+                    [
+                        2.193642, 
+                        2.179923
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 1.9751584380099416
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.012421
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Contact - ifnot": {
+        "version": 1, 
+        "name": "Contact - ifnot", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    -0.294118, 
+                    -0.294118
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "padding": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "padding", 
+                "value": 0.1
+            }, 
+            "text_fitting": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "text_fitting", 
+                "value": 1
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "text": {
+                "visible": 0, 
+                "type": "text", 
+                "name": "text", 
+                "value": [
+                    [
+                        0.0, 
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0, 
+                        "Helvetica", 
+                        "sans"
+                    ], 
+                    "", 
+                    0.8
+                ]
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.588235294117647
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.394118, 
+                        -0.394118
+                    ], 
+                    [
+                        2.394118, 
+                        2.394118
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.588235294117647
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "text_font": {
+                "visible": 1, 
+                "type": "font", 
+                "name": "text_font", 
+                "value": [
+                    0, 
+                    "Helvetica", 
+                    "sans"
+                ]
+            }, 
+            "text_alignment": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "text_alignment", 
+                "value": 1
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    -0.294118, 
+                    -0.294118
+                ]
+            }, 
+            "text_height": {
+                "visible": 1, 
+                "type": "fontsize", 
+                "name": "text_height", 
+                "value": 0.8
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "text_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "text_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Contact - lamp": {
+        "version": 1, 
+        "name": "Contact - lamp", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    -0.294118, 
+                    -0.294118
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "padding": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "padding", 
+                "value": 0.1
+            }, 
+            "text_fitting": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "text_fitting", 
+                "value": 1
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "text": {
+                "visible": 0, 
+                "type": "text", 
+                "name": "text", 
+                "value": [
+                    [
+                        0.0, 
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0, 
+                        "Helvetica", 
+                        "sans"
+                    ], 
+                    "", 
+                    0.8
+                ]
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.588235294117647
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.394118, 
+                        -0.394118
+                    ], 
+                    [
+                        2.394118, 
+                        2.394118
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.588235294117647
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "text_font": {
+                "visible": 1, 
+                "type": "font", 
+                "name": "text_font", 
+                "value": [
+                    0, 
+                    "Helvetica", 
+                    "sans"
+                ]
+            }, 
+            "text_alignment": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "text_alignment", 
+                "value": 1
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    -0.294118, 
+                    -0.294118
+                ]
+            }, 
+            "text_height": {
+                "visible": 1, 
+                "type": "fontsize", 
+                "name": "text_height", 
+                "value": 0.8
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "text_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "text_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - Text": {
+        "version": 1, 
+        "name": "Standard - Text", 
+        "properties": {
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "text_angle": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "text_angle", 
+                "value": 0.0
+            }, 
+            "text_alignment": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "text_alignment", 
+                "value": 0
+            }, 
+            "text": {
+                "visible": 0, 
+                "type": "text", 
+                "name": "text", 
+                "value": [
+                    [
+                        0.0, 
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0, 
+                        "Helvetica", 
+                        "sans"
+                    ], 
+                    "", 
+                    0.8
+                ]
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.595, 
+                        0.0
+                    ], 
+                    [
+                        0.1525, 
+                        0.0
+                    ]
+                ]
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "text_margin": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "text_margin", 
+                "value": 0.0
+            }, 
+            "text_vert_alignment": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "text_vert_alignment", 
+                "value": 3
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 0
+            }, 
+            "text_height": {
+                "visible": 1, 
+                "type": "fontsize", 
+                "name": "text_height", 
+                "value": 0.8
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "text_font": {
+                "visible": 1, 
+                "type": "font", 
+                "name": "text_font", 
+                "value": [
+                    0, 
+                    "Helvetica", 
+                    "sans"
+                ]
+            }, 
+            "text_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "text_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "UML - Objet": {
+        "version": 0, 
+        "name": "UML - Objet", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "text_font": {
+                "visible": 1, 
+                "type": "font", 
+                "name": "text_font", 
+                "value": [
+                    0, 
+                    "Helvetica", 
+                    "sans"
+                ]
+            }, 
+            "multiple": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "multiple", 
+                "value": 0
+            }, 
+            "stereotype": {
+                "visible": 1, 
+                "type": "string", 
+                "name": "stereotype", 
+                "value": "(NULL)"
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "text": {
+                "visible": 0, 
+                "type": "text", 
+                "name": "text", 
+                "value": [
+                    [
+                        0.0, 
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0, 
+                        "Helvetica", 
+                        "sans"
+                    ], 
+                    "", 
+                    0.8
+                ]
+            }, 
+            "is_active": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "is_active", 
+                "value": 0
+            }, 
+            "show_attribs": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_attribs", 
+                "value": 0
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 1.8
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.05, 
+                        -0.05
+                    ], 
+                    [
+                        1.85, 
+                        1.05
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 1.0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "exstate": {
+                "visible": 1, 
+                "type": "string", 
+                "name": "exstate", 
+                "value": "(NULL)"
+            }, 
+            "attribstr": {
+                "visible": 1, 
+                "type": "multistring", 
+                "name": "attribstr", 
+                "value": ""
+            }, 
+            "attrib": {
+                "visible": 0, 
+                "type": "text", 
+                "name": "attrib", 
+                "value": [
+                    [
+                        0.0, 
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0, 
+                        "Helvetica", 
+                        "sans"
+                    ], 
+                    "", 
+                    0.8
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "text_height": {
+                "visible": 1, 
+                "type": "fontsize", 
+                "name": "text_height", 
+                "value": 0.8
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "text_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "text_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - Image": {
+        "version": 0, 
+        "name": "Standard - Image", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "angle": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "angle", 
+                "value": 0.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "inline_data": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "inline_data", 
+                "value": 0
+            }, 
+            "pixbuf": {
+                "visible": 0, 
+                "type": "pixbuf", 
+                "name": "pixbuf", 
+                "value": null
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        2.0, 
+                        2.0
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_border": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_border", 
+                "value": 0
+            }, 
+            "image_file": {
+                "visible": 1, 
+                "type": "file", 
+                "name": "image_file", 
+                "value": ""
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "keep_aspect": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "keep_aspect", 
+                "value": 1
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "GRAFCET - Vector": {
+        "version": 1, 
+        "name": "GRAFCET - Vector", 
+        "properties": {
+            "orth_points": {
+                "visible": 0, 
+                "type": "pointarray", 
+                "name": "orth_points", 
+                "value": [
+                    null, 
+                    null, 
+                    null, 
+                    null
+                ]
+            }, 
+            "orth_autoroute": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "orth_autoroute", 
+                "value": 1
+            }, 
+            "uparrow": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "uparrow", 
+                "value": 1
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.05, 
+                        -0.35
+                    ], 
+                    [
+                        1.35, 
+                        2.05
+                    ]
+                ]
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "orth_orient": {
+                "visible": 0, 
+                "type": "enumarray", 
+                "name": "orth_orient", 
+                "value": [
+                    1, 
+                    0, 
+                    1
+                ]
+            }
+        }
+    }, 
+    "Cisco - PIX Firewall Left": {
+        "version": 1, 
+        "name": "Cisco - PIX Firewall Left", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    -0.714319
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.001, 
+                        -0.715316
+                    ], 
+                    [
+                        2.001, 
+                        2.715322
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 3.428638277959757
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    -0.714319
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - Bus": {
+        "version": 0, 
+        "name": "Standard - Bus", 
+        "properties": {
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -1.0, 
+                        -0.05
+                    ], 
+                    [
+                        1.0, 
+                        5.05
+                    ]
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "conn_endpoints": {
+                "visible": 0, 
+                "type": "endpoints", 
+                "name": "conn_endpoints", 
+                "value": null
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - Telecommuter house/router": {
+        "version": 1, 
+        "name": "Cisco - Telecommuter house/router", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    -0.170581
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 1.9999999999999998
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.096587, 
+                        -0.35021
+                    ], 
+                    [
+                        2.196179, 
+                        2.294317
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.341161215963117
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    -0.170581
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - BezierLine": {
+        "version": 0, 
+        "name": "Standard - BezierLine", 
+        "properties": {
+            "absolute_end_gap": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "absolute_end_gap", 
+                "value": 0.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "absolute_start_gap": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "absolute_start_gap", 
+                "value": 0.0
+            }, 
+            "line_caps": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_caps", 
+                "value": 0
+            }, 
+            "end_arrow": {
+                "visible": 1, 
+                "type": "arrow", 
+                "name": "end_arrow", 
+                "value": null
+            }, 
+            "bez_points": {
+                "visible": 0, 
+                "type": "bezpointarray", 
+                "name": "bez_points", 
+                "value": [
+                    null, 
+                    null
+                ]
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.070711, 
+                        -0.070711
+                    ], 
+                    [
+                        0.9, 
+                        0.9
+                    ]
+                ]
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "line_join": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_join", 
+                "value": 0
+            }, 
+            "start_arrow": {
+                "visible": 1, 
+                "type": "arrow", 
+                "name": "start_arrow", 
+                "value": null
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - Arc": {
+        "version": 0, 
+        "name": "Standard - Arc", 
+        "properties": {
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "line_caps": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_caps", 
+                "value": 0
+            }, 
+            "end_arrow": {
+                "visible": 1, 
+                "type": "arrow", 
+                "name": "end_arrow", 
+                "value": null
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.070711, 
+                        -0.476777
+                    ], 
+                    [
+                        1.808885, 
+                        1.070711
+                    ]
+                ]
+            }, 
+            "curve_distance": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "curve_distance", 
+                "value": 1.0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "conn_endpoints": {
+                "visible": 0, 
+                "type": "endpoints", 
+                "name": "conn_endpoints", 
+                "value": null
+            }, 
+            "start_arrow": {
+                "visible": 1, 
+                "type": "arrow", 
+                "name": "start_arrow", 
+                "value": null
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Contact - relay": {
+        "version": 1, 
+        "name": "Contact - relay", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    -0.294118, 
+                    -0.294118
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "padding": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "padding", 
+                "value": 0.1
+            }, 
+            "text_fitting": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "text_fitting", 
+                "value": 1
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "text": {
+                "visible": 0, 
+                "type": "text", 
+                "name": "text", 
+                "value": [
+                    [
+                        0.0, 
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0, 
+                        "Helvetica", 
+                        "sans"
+                    ], 
+                    "", 
+                    0.8
+                ]
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.588235294117647
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.394118, 
+                        -0.394118
+                    ], 
+                    [
+                        2.394118, 
+                        2.394118
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.588235294117647
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "text_font": {
+                "visible": 1, 
+                "type": "font", 
+                "name": "text_font", 
+                "value": [
+                    0, 
+                    "Helvetica", 
+                    "sans"
+                ]
+            }, 
+            "text_alignment": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "text_alignment", 
+                "value": 1
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    -0.294118, 
+                    -0.294118
+                ]
+            }, 
+            "text_height": {
+                "visible": 1, 
+                "type": "fontsize", 
+                "name": "text_height", 
+                "value": 0.8
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "text_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "text_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - Voice switch 2": {
+        "version": 1, 
+        "name": "Cisco - Voice switch 2", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    -1.051216
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.188064, 
+                        -1.127005
+                    ], 
+                    [
+                        2.08, 
+                        3.247556
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 4.102431898255552
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    -1.051216
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - Sitting Woman right": {
+        "version": 1, 
+        "name": "Cisco - Sitting Woman right", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.369411
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.00101, 
+                        0.368279
+                    ], 
+                    [
+                        2.001111, 
+                        1.631619
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 1.2611784371082324
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.369411
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - PC Man left": {
+        "version": 1, 
+        "name": "Cisco - PC Man left", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.303525
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.001, 
+                        0.302098
+                    ], 
+                    [
+                        2.001223, 
+                        1.698211
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 1.3929505281874281
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.303525
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - Outline": {
+        "version": 0, 
+        "name": "Standard - Outline", 
+        "properties": {
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "name": {
+                "visible": 1, 
+                "type": "string", 
+                "name": "name", 
+                "value": "?"
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0.59375, 
+                        0.311328
+                    ]
+                ]
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "text_font": {
+                "visible": 1, 
+                "type": "font", 
+                "name": "text_font", 
+                "value": [
+                    0, 
+                    "Helvetica", 
+                    "sans"
+                ]
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 0
+            }, 
+            "rotation": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "rotation", 
+                "value": 0.0
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "text_height": {
+                "visible": 1, 
+                "type": "fontsize", 
+                "name": "text_height", 
+                "value": 0.8
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - Box": {
+        "version": 0, 
+        "name": "Standard - Box", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "angle": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "angle", 
+                "value": 0.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "pattern": {
+                "visible": 1, 
+                "type": "pattern", 
+                "name": "pattern", 
+                "value": null
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 1.0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.05, 
+                        -0.05
+                    ], 
+                    [
+                        1.05, 
+                        2.05
+                    ]
+                ]
+            }, 
+            "corner_radius": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "corner_radius", 
+                "value": 0.0
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "aspect": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "aspect", 
+                "value": 0
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "line_join": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_join", 
+                "value": 0
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - Ellipse": {
+        "version": 0, 
+        "name": "Standard - Ellipse", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "angle": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "angle", 
+                "value": 0.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "pattern": {
+                "visible": 1, 
+                "type": "pattern", 
+                "name": "pattern", 
+                "value": null
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 1.0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.05, 
+                        -0.05
+                    ], 
+                    [
+                        1.05, 
+                        2.05
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "aspect": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "aspect", 
+                "value": 0
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - Workstation": {
+        "version": 1, 
+        "name": "Cisco - Workstation", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    -0.204069
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.130889, 
+                        -0.602862
+                    ], 
+                    [
+                        2.078027, 
+                        2.284069
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.4081380569686033
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    -0.204069
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - PolyLine": {
+        "version": 0, 
+        "name": "Standard - PolyLine", 
+        "properties": {
+            "absolute_end_gap": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "absolute_end_gap", 
+                "value": 0.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "absolute_start_gap": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "absolute_start_gap", 
+                "value": 0.0
+            }, 
+            "line_caps": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_caps", 
+                "value": 0
+            }, 
+            "end_arrow": {
+                "visible": 1, 
+                "type": "arrow", 
+                "name": "end_arrow", 
+                "value": null
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.070711, 
+                        -0.070711
+                    ], 
+                    [
+                        1.070711, 
+                        1.070711
+                    ]
+                ]
+            }, 
+            "corner_radius": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "corner_radius", 
+                "value": 0.0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "line_join": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_join", 
+                "value": 0
+            }, 
+            "start_arrow": {
+                "visible": 1, 
+                "type": "arrow", 
+                "name": "start_arrow", 
+                "value": null
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "poly_points": {
+                "visible": 0, 
+                "type": "pointarray", 
+                "name": "poly_points", 
+                "value": [
+                    null, 
+                    null
+                ]
+            }
+        }
+    }, 
+    "chemeng - pnuemv": {
+        "version": 1, 
+        "name": "chemeng - pnuemv", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.089443, 
+                        -0.044721
+                    ], 
+                    [
+                        2.089443, 
+                        2.044721
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.0
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - Video Camera right": {
+        "version": 1, 
+        "name": "Cisco - Video Camera right", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    -0.473422
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.001, 
+                        -0.485667
+                    ], 
+                    [
+                        2.019, 
+                        2.492447
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.9468444444444444
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    -0.473422
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - Polygon": {
+        "version": 0, 
+        "name": "Standard - Polygon", 
+        "properties": {
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "pattern": {
+                "visible": 1, 
+                "type": "pattern", 
+                "name": "pattern", 
+                "value": null
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.05, 
+                        -0.05
+                    ], 
+                    [
+                        1.120711, 
+                        1.120711
+                    ]
+                ]
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "line_join": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_join", 
+                "value": 0
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "poly_points": {
+                "visible": 0, 
+                "type": "pointarray", 
+                "name": "poly_points", 
+                "value": [
+                    null, 
+                    null, 
+                    null
+                ]
+            }
+        }
+    }, 
+    "Cisco - DPT": {
+        "version": 1, 
+        "name": "Cisco - DPT", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    -1.056228
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.3, 
+                        -1.356228
+                    ], 
+                    [
+                        2.3, 
+                        3.356228
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 4.112456210367609
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    -1.056228
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - Gigabit Switch Router (ATM Tag)": {
+        "version": 1, 
+        "name": "Cisco - Gigabit Switch Router (ATM Tag)", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.006052
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 1.9999999999999998
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.08, 
+                        -0.073894
+                    ], 
+                    [
+                        2.001679, 
+                        2.073948
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 1.9878954905298387
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.006052
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - Router in building": {
+        "version": 1, 
+        "name": "Cisco - Router in building", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.337579
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.079969, 
+                        0.144413
+                    ], 
+                    [
+                        2.08, 
+                        1.739307
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 1.3248427285062303
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.337579
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - ZigZagLine": {
+        "version": 1, 
+        "name": "Standard - ZigZagLine", 
+        "properties": {
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "line_caps": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_caps", 
+                "value": 0
+            }, 
+            "end_arrow": {
+                "visible": 1, 
+                "type": "arrow", 
+                "name": "end_arrow", 
+                "value": null
+            }, 
+            "orth_points": {
+                "visible": 0, 
+                "type": "pointarray", 
+                "name": "orth_points", 
+                "value": [
+                    null, 
+                    null, 
+                    null, 
+                    null
+                ]
+            }, 
+            "orth_autoroute": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "orth_autoroute", 
+                "value": 1
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.05, 
+                        -0.05
+                    ], 
+                    [
+                        1.361803, 
+                        2.05
+                    ]
+                ]
+            }, 
+            "corner_radius": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "corner_radius", 
+                "value": 0.0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "orth_orient": {
+                "visible": 0, 
+                "type": "enumarray", 
+                "name": "orth_orient", 
+                "value": [
+                    1, 
+                    0, 
+                    1
+                ]
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "line_join": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_join", 
+                "value": 0
+            }, 
+            "start_arrow": {
+                "visible": 1, 
+                "type": "arrow", 
+                "name": "start_arrow", 
+                "value": null
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - Dot-Dot": {
+        "version": 1, 
+        "name": "Cisco - Dot-Dot", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    -7.651322
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        0.0, 
+                        -7.651322
+                    ], 
+                    [
+                        2.0, 
+                        9.651322
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 17.30264446620952
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    -7.651322
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - Line": {
+        "version": 0, 
+        "name": "Standard - Line", 
+        "properties": {
+            "absolute_end_gap": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "absolute_end_gap", 
+                "value": 0.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "absolute_start_gap": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "absolute_start_gap", 
+                "value": 0.0
+            }, 
+            "line_caps": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_caps", 
+                "value": 0
+            }, 
+            "end_arrow": {
+                "visible": 1, 
+                "type": "arrow", 
+                "name": "end_arrow", 
+                "value": null
+            }, 
+            "end_point": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "end_point", 
+                "value": [
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.070711, 
+                        -0.070711
+                    ], 
+                    [
+                        1.070711, 
+                        1.070711
+                    ]
+                ]
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "start_point": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "start_point", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "start_arrow": {
+                "visible": 1, 
+                "type": "arrow", 
+                "name": "start_arrow", 
+                "value": null
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "RedCar": {
+        "version": 1, 
+        "name": "RedCar", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    -0.5
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.111803, 
+                        -0.723607
+                    ], 
+                    [
+                        2.161803, 
+                        2.723607
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 3.0
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    -0.5
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - Beziergon": {
+        "version": 0, 
+        "name": "Standard - Beziergon", 
+        "properties": {
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "pattern": {
+                "visible": 1, 
+                "type": "pattern", 
+                "name": "pattern", 
+                "value": null
+            }, 
+            "bez_points": {
+                "visible": 0, 
+                "type": "bezpointarray", 
+                "name": "bez_points", 
+                "value": [
+                    null, 
+                    null, 
+                    null
+                ]
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.05, 
+                        -0.8
+                    ], 
+                    [
+                        1.05, 
+                        0.8
+                    ]
+                ]
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "line_join": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_join", 
+                "value": 0
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - Communications server": {
+        "version": 1, 
+        "name": "Cisco - Communications server", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.013139
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.075381, 
+                        -0.213516
+                    ], 
+                    [
+                        2.193689, 
+                        2.063908
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 1.9737220749716031
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.013139
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Standard - Path": {
+        "version": 0, 
+        "name": "Standard - Path", 
+        "properties": {
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    1.0, 
+                    0.0
+                ]
+            }, 
+            "show_control_lines": {
+                "visible": 0, 
+                "type": "bool", 
+                "name": "show_control_lines", 
+                "value": 0
+            }, 
+            "line_caps": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_caps", 
+                "value": 0
+            }, 
+            "pattern": {
+                "visible": 1, 
+                "type": "pattern", 
+                "name": "pattern", 
+                "value": null
+            }, 
+            "bez_points": {
+                "visible": 0, 
+                "type": "bezpointarray", 
+                "name": "bez_points", 
+                "value": [
+                    null, 
+                    null, 
+                    null
+                ]
+            }, 
+            "stroke_or_fill": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "stroke_or_fill", 
+                "value": 1
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        0.661325, 
+                        -0.05
+                    ], 
+                    [
+                        1.338675, 
+                        2.05
+                    ]
+                ]
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 0, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 0
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    0.0
+                ]
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "line_join": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "line_join", 
+                "value": 0
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - Man/Woman": {
+        "version": 1, 
+        "name": "Cisco - Man/Woman", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.316612
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        0.0, 
+                        0.316612
+                    ], 
+                    [
+                        2.0, 
+                        1.683388
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 1.366775808629103
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.316612
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Contact - if": {
+        "version": 1, 
+        "name": "Contact - if", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    -0.294118, 
+                    -0.294118
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "padding": {
+                "visible": 1, 
+                "type": "real", 
+                "name": "padding", 
+                "value": 0.1
+            }, 
+            "text_fitting": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "text_fitting", 
+                "value": 1
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "text": {
+                "visible": 0, 
+                "type": "text", 
+                "name": "text", 
+                "value": [
+                    [
+                        0.0, 
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0.0, 
+                        0.0
+                    ], 
+                    [
+                        0, 
+                        "Helvetica", 
+                        "sans"
+                    ], 
+                    "", 
+                    0.8
+                ]
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.588235294117647
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.394118, 
+                        -0.394118
+                    ], 
+                    [
+                        2.394118, 
+                        2.394118
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.588235294117647
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "text_font": {
+                "visible": 1, 
+                "type": "font", 
+                "name": "text_font", 
+                "value": [
+                    0, 
+                    "Helvetica", 
+                    "sans"
+                ]
+            }, 
+            "text_alignment": {
+                "visible": 1, 
+                "type": "enum", 
+                "name": "text_alignment", 
+                "value": 1
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    -0.294118, 
+                    -0.294118
+                ]
+            }, 
+            "text_height": {
+                "visible": 1, 
+                "type": "fontsize", 
+                "name": "text_height", 
+                "value": 0.8
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "text_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "text_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Geometric - Isoceles Triangle": {
+        "version": 1, 
+        "name": "Geometric - Isoceles Triangle", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.223607, 
+                        -0.161803
+                    ], 
+                    [
+                        2.1, 
+                        2.161803
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 2.0
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }, 
+    "Cisco - Layer 3 Switch": {
+        "version": 1, 
+        "name": "Cisco - Layer 3 Switch", 
+        "properties": {
+            "elem_corner": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "elem_corner", 
+                "value": [
+                    0.0, 
+                    0.004468
+                ]
+            }, 
+            "fill_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "fill_colour", 
+                "value": [
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "subscale": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "subscale", 
+                "value": 1.0
+            }, 
+            "line_width": {
+                "visible": 1, 
+                "type": "length", 
+                "name": "line_width", 
+                "value": 0.1
+            }, 
+            "elem_height": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_height", 
+                "value": 2.0
+            }, 
+            "flip_vertical": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_vertical", 
+                "value": 0
+            }, 
+            "obj_bb": {
+                "visible": 0, 
+                "type": "rect", 
+                "name": "obj_bb", 
+                "value": [
+                    [
+                        -0.1792, 
+                        0.004468
+                    ], 
+                    [
+                        2.191843, 
+                        2.075532
+                    ]
+                ]
+            }, 
+            "elem_width": {
+                "visible": 0, 
+                "type": "real", 
+                "name": "elem_width", 
+                "value": 1.9910640410392197
+            }, 
+            "flip_horizontal": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "flip_horizontal", 
+                "value": 0
+            }, 
+            "meta": {
+                "visible": 0, 
+                "type": "dict", 
+                "name": "meta", 
+                "value": {}
+            }, 
+            "show_background": {
+                "visible": 1, 
+                "type": "bool", 
+                "name": "show_background", 
+                "value": 1
+            }, 
+            "line_style": {
+                "visible": 1, 
+                "type": "linestyle", 
+                "name": "line_style", 
+                "value": [
+                    0, 
+                    1.0
+                ]
+            }, 
+            "obj_pos": {
+                "visible": 0, 
+                "type": "point", 
+                "name": "obj_pos", 
+                "value": [
+                    0.0, 
+                    0.004468
+                ]
+            }, 
+            "line_colour": {
+                "visible": 1, 
+                "type": "colour", 
+                "name": "line_colour", 
+                "value": [
+                    0.0, 
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            }
+        }
+    }
+}

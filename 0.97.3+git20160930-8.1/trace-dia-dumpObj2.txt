@@ -1,0 +1,174 @@
+
+=======================
+0:class:<type 'dia.Arrow'>
+-----------------
+
+=======================
+1:class:<type 'dia.BezPoint'>
+-----------------
+
+=======================
+2:class:<type 'DiaColor'>
+-----------------
+
+=======================
+3:class:<type 'dia.ConnectionPoint'>
+-----------------
+
+=======================
+4:class:<type 'dia.Diagram'>
+-----------------
+
+=======================
+5:class:<type 'dia.DiagramData'>
+-----------------
+
+=======================
+6:class:<type 'dia.Display'>
+-----------------
+
+=======================
+7:class:<type 'DiaError'>
+-----------------
+
+=======================
+8:class:<type 'dia.ExportFilter'>
+-----------------
+
+=======================
+9:class:<type 'dia.Font'>
+-----------------
+
+=======================
+10:class:<type 'dia.Handle'>
+-----------------
+
+=======================
+11:class:<type 'dia.Image'>
+-----------------
+
+=======================
+12:class:<type 'dia.Layer'>
+-----------------
+
+=======================
+13:class:<type 'dia.Matrix'>
+-----------------
+
+=======================
+14:class:<type 'dia.Menuitem'>
+-----------------
+
+=======================
+15:class:<type 'dia.Object'>
+-----------------
+
+=======================
+16:class:<type 'dia.ObjectType'>
+-----------------
+
+=======================
+17:class:<type 'dia.Paperinfo'>
+-----------------
+
+=======================
+18:class:<type 'dia.Point'>
+-----------------
+
+=======================
+19:class:<type 'dia.Properties'>
+-----------------
+
+=======================
+20:class:<type 'dia.Property'>
+-----------------
+
+=======================
+21:class:<type 'dia.Rectangle'>
+-----------------
+
+=======================
+22:class:<type 'dia.Sheet'>
+-----------------
+
+=======================
+23:class:<type 'dia.Text'>
+-----------------
+
+=======================
+24:__doc__:The dia module allows to write Python plug-ins for Dia [http://live.gnome.org/Dia/Python]
+
+This modules is designed to run Python scripts embedded in Dia. To make your script accessible
+to Dia you have to put it into $HOME/.dia/python and let it call one of the register_*() functions.
+It is possible to write import filters [register_import()] and export filters [register_export()], as well as scripts to manipulate existing diagrams or create new ones [register_action()].
+
+For stand-alone Python bindings to Dia see http://mail.gnome.org/archives/dia-list/2007-March/msg00092.html
+-----------------
+
+=======================
+25:__name__:dia
+-----------------
+
+=======================
+26:__package__:None
+-----------------
+
+=======================
+27:builtin:<built-in function active_display>
+-----------------
+
+=======================
+28:builtin:<built-in function diagrams>
+-----------------
+
+=======================
+29:builtin:<built-in function get_object_type>
+-----------------
+
+=======================
+30:builtin:<built-in function group_create>
+-----------------
+
+=======================
+31:builtin:<built-in function load>
+-----------------
+
+=======================
+32:builtin:<built-in function message>
+-----------------
+
+=======================
+33:builtin:<built-in function new>
+-----------------
+
+=======================
+34:builtin:<built-in function register_action>
+-----------------
+
+=======================
+35:builtin:<built-in function register_callback>
+-----------------
+
+=======================
+36:builtin:<built-in function register_export>
+-----------------
+
+=======================
+37:builtin:<built-in function register_import>
+-----------------
+
+=======================
+38:builtin:<built-in function register_plugin>
+-----------------
+
+=======================
+39:builtin:<built-in function registered_sheets>
+-----------------
+
+=======================
+40:builtin:<built-in function registered_types>
+-----------------
+
+=======================
+41:builtin:<built-in function update_all>
+-----------------

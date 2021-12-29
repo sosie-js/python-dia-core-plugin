@@ -1,0 +1,362 @@
+{
+    "Cisco": {
+        "objects": [
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - Workstation"
+                }, 
+                "Cisco - Workstation", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - Router in building"
+                }, 
+                "Cisco - Router in building", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - Communications server"
+                }, 
+                "Cisco - Communications server", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - PC Man left"
+                }, 
+                "Cisco - PC Man left", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - Video Camera right"
+                }, 
+                "Cisco - Video Camera right", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - Layer 3 Switch"
+                }, 
+                "Cisco - Layer 3 Switch", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - PIX Firewall Left"
+                }, 
+                "Cisco - PIX Firewall Left", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - Man/Woman"
+                }, 
+                "Cisco - Man/Woman", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - Gigabit Switch Router (ATM Tag)"
+                }, 
+                "Cisco - Gigabit Switch Router (ATM Tag)", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - Sitting Woman right"
+                }, 
+                "Cisco - Sitting Woman right", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - SVX (interchangeable with End office)"
+                }, 
+                "Cisco - SVX (interchangeable with End office)", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - DPT"
+                }, 
+                "Cisco - DPT", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - Dot-Dot"
+                }, 
+                "Cisco - Dot-Dot", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - Telecommuter house/router"
+                }, 
+                "Cisco - Telecommuter house/router", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Cisco - Voice switch 2"
+                }, 
+                "Cisco - Voice switch 2", 
+                null
+            ]
+        ], 
+        "description": "Cisco Shapes", 
+        "name": "Cisco", 
+        "filename": "/usr/share/dia/sheets/Cisco.sheet"
+    }, 
+    "<broken>": {
+        "objects": [
+            [
+                {
+                    "version": 1, 
+                    "name": "RedCar"
+                }, 
+                "RedCar", 
+                null
+            ]
+        ], 
+        "description": "<broken> Shapes", 
+        "name": "<broken>", 
+        "filename": "/usr/share/dia/sheets/<broken>.sheet"
+    }, 
+    "Standard": {
+        "objects": [
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - Bus"
+                }, 
+                "Standard - Bus", 
+                null
+            ], 
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - Polygon"
+                }, 
+                "Standard - Polygon", 
+                null
+            ], 
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - Beziergon"
+                }, 
+                "Standard - Beziergon", 
+                null
+            ], 
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - Ellipse"
+                }, 
+                "Standard - Ellipse", 
+                null
+            ], 
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - Box"
+                }, 
+                "Standard - Box", 
+                null
+            ], 
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - Image"
+                }, 
+                "Standard - Image", 
+                null
+            ], 
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - Arc"
+                }, 
+                "Standard - Arc", 
+                null
+            ], 
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - Line"
+                }, 
+                "Standard - Line", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Standard - ZigZagLine"
+                }, 
+                "Standard - ZigZagLine", 
+                null
+            ], 
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - Path"
+                }, 
+                "Standard - Path", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Standard - Text"
+                }, 
+                "Standard - Text", 
+                null
+            ], 
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - BezierLine"
+                }, 
+                "Standard - BezierLine", 
+                null
+            ], 
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - Outline"
+                }, 
+                "Standard - Outline", 
+                null
+            ], 
+            [
+                {
+                    "version": 0, 
+                    "name": "Standard - PolyLine"
+                }, 
+                "Standard - PolyLine", 
+                null
+            ]
+        ], 
+        "description": "Standard Shapes", 
+        "name": "Standard", 
+        "filename": "/usr/share/dia/sheets/Standard.sheet"
+    }, 
+    "chemeng": {
+        "objects": [
+            [
+                {
+                    "version": 1, 
+                    "name": "chemeng - pnuemv"
+                }, 
+                "chemeng - pnuemv", 
+                null
+            ]
+        ], 
+        "description": "chemeng Shapes", 
+        "name": "chemeng", 
+        "filename": "/usr/share/dia/sheets/chemeng.sheet"
+    }, 
+    "Contact": {
+        "objects": [
+            [
+                {
+                    "version": 1, 
+                    "name": "Contact - ifnot"
+                }, 
+                "Contact - ifnot", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Contact - if"
+                }, 
+                "Contact - if", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Contact - lamp"
+                }, 
+                "Contact - lamp", 
+                null
+            ], 
+            [
+                {
+                    "version": 1, 
+                    "name": "Contact - relay"
+                }, 
+                "Contact - relay", 
+                null
+            ]
+        ], 
+        "description": "Contact Shapes", 
+        "name": "Contact", 
+        "filename": "/usr/share/dia/sheets/Contact.sheet"
+    }, 
+    "GRAFCET": {
+        "objects": [
+            [
+                {
+                    "version": 1, 
+                    "name": "GRAFCET - Vector"
+                }, 
+                "GRAFCET - Vector", 
+                null
+            ]
+        ], 
+        "description": "GRAFCET Shapes", 
+        "name": "GRAFCET", 
+        "filename": "/usr/share/dia/sheets/GRAFCET.sheet"
+    }, 
+    "UML": {
+        "objects": [
+            [
+                {
+                    "version": 0, 
+                    "name": "UML - Objet"
+                }, 
+                "UML - Objet", 
+                null
+            ]
+        ], 
+        "description": "UML Shapes", 
+        "name": "UML", 
+        "filename": "/usr/share/dia/sheets/UML.sheet"
+    }, 
+    "Geometric": {
+        "objects": [
+            [
+                {
+                    "version": 1, 
+                    "name": "Geometric - Isoceles Triangle"
+                }, 
+                "Geometric - Isoceles Triangle", 
+                null
+            ]
+        ], 
+        "description": "Geometric Shapes", 
+        "name": "Geometric", 
+        "filename": "/usr/share/dia/sheets/Geometric.sheet"
+    }
+}

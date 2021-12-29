@@ -1,0 +1,202 @@
+
+WARNING:In sheet 'Automata' (Symbols for designing Automata),
+	 orphean object type 'Start State' 
+	 object name SHOULD BE (GUESSING) : 'Automata - Start State' in /usr/share/dia/sheets/Automata.sheet
+WARNING:In sheet 'Automata' (Symbols for designing Automata),
+	 orphean object type 'Intermediate State' 
+	 object name SHOULD BE (GUESSING) : 'Automata - Intermediate State' in /usr/share/dia/sheets/Automata.sheet
+WARNING:In sheet 'Automata' (Symbols for designing Automata),
+	 orphean object type 'Final State' 
+	 object name SHOULD BE (GUESSING) : 'Automata - Final State' in /usr/share/dia/sheets/Automata.sheet
+WARNING:In sheet 'Automata' (Symbols for designing Automata),
+	 orphean object type 'Start Final State' 
+	 object name SHOULD BE (GUESSING) : 'Automata - Start Final State' in /usr/share/dia/sheets/Automata.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_Component' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_Component' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_SWC' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_SWC' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_Composition' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_Composition' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_SA_SWC' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_SA_SWC' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_Runnable' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_Runnable' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_IRV' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_IRV' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_Cal_H' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_Cal_H' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_Cal_V' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_Cal_V' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_CS_provides' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_CS_provides' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_CS_requires_H' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_CS_requires_H' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_CS_requires_V' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_CS_requires_V' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_Service_CS_provides' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_Service_CS_provides' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_Service_CS_requires_H' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_Service_CS_requires_H' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_Service_CS_requires_V' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_Service_CS_requires_V' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_Service_SR_H' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_Service_SR_H' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_Service_SR_V' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_Service_SR_V' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_SR_H' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_SR_H' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'AUTOSAR' (AUTomotive Open System ARchitecture),
+	 orphean object type 'AS_SR_V' 
+	 object name SHOULD BE (GUESSING) : 'AUTOSAR - AS_SR_V' in /usr/share/dia/sheets/AUTOSAR.sheet
+WARNING:In sheet 'Chemistry Lab' (Chemistry Lab Apparati),
+	 orphean object type 'ryan -Erlenmeyer Flask' 
+	 object name SHOULD BE (GUESSING) : 'Chemistry Lab - ryan -Erlenmeyer Flask' in /usr/share/dia/sheets/chemistry_lab.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Business_Process' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Business_Process' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Process_Group' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Process_Group' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Function' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Function' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Event' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Event' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Start_Event' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Start_Event' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_End_Event' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - End_Event' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Organisation_Unit' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Organisation_Unit' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Document' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Document' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Operator_AND_in' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Operator_AND_in' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Operator_AND_out' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Operator_AND_out' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Operator_OR_in' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Operator_OR_in' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Operator_OR_out' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Operator_OR_out' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Operator_XOR_in' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Operator_XOR_in' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'EDPC' (Objects to draw event-driven process chains),
+	 orphean object type 'EDPC_Operator_XOR_out' 
+	 object name SHOULD BE (GUESSING) : 'EDPC - Operator_XOR_out' in /usr/share/dia/sheets/EDPC.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Road1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Road1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'StraightRoad1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - StraightRoad1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Crossroads' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Crossroads' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'T-Junction' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - T-Junction' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Elevated' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Elevated' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Corner1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Corner1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Corner2' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Corner2' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'River' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - River' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Roof1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Roof1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block2' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block2' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block3' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block3' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block4' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block4' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block5' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block5' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block6' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block6' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block7' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block7' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Factory' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Factory' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Car1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Car1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Car2' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Car2' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Train1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Train1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Train2' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Train2' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Tree1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Tree1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'FootBridge' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - FootBridge' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'OneWay' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - OneWay' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Node Center' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Node Center' in /usr/share/dia/sheets/MSE.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Large Extension Node' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Large Extension Node' in /usr/share/dia/sheets/MSE.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Small Extension Node' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Small Extension Node' in /usr/share/dia/sheets/MSE.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Tactical Satellite Communications Terminal' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Tactical Satellite Communications Terminal' in /usr/share/dia/sheets/MSE.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Multiplexer' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Multiplexer' in /usr/share/dia/sheets/MSE.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Demultiplexer' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Demultiplexer' in /usr/share/dia/sheets/MSE.sheet

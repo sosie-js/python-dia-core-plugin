@@ -1,0 +1,62 @@
+dia -v
+======
+Dia version 0.97+git, compiled 15:02:28 Dec  1 2018
+
+INSTALL
+========
+
+sudo apt-get install --reinstall dia-common
+sudo apt-get install --reinstall dia
+
+apt info dia:
+--------------
+Package: dia
+Version: 0.97.3+git20160930-8.1
+Priority: optional
+Section: graphics
+Maintainer: Rodrigo Siqueira <siqueira@ime.usp.br>
+Installed-Size: 3 916 kB
+Depends: libart-2.0-2 (>= 2.3.19), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.14), libcairo2 (>= 1.12.0), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.3), libgtk2.0-0 (>= 2.24.32), libpango-1.0-0 (>= 1.18.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libpng16-16 (>= 1.6.2-1), libpython2.7 (>= 2.7), libxml2 (>= 2.7.4), libxslt1.1 (>= 1.1.25), zlib1g (>= 1:1.1.4), dia-common (= 0.97.3+git20160930-8.1)
+Recommends: gsfonts-x11, dia-shapes
+Breaks: dia-libs (<< 0.97.3+git20160904-1~)
+Replaces: dia-libs (<< 0.97.3+git20160904-1~)
+Homepage: https://wiki.gnome.org/Apps/Dia/
+Tag: implemented-in::c, interface::graphical, interface::x11, role::program,
+ scope::application, suite::gnu, uitoolkit::gtk, use::editing,
+ works-with::image, works-with::image:vector, x11::application
+Download-Size: 938 kB:
+APT-Manual-Installed: no
+APT-Sources: http://deb.debian.org/debian buster/main amd64 Packages
+Description: Diagram editor
+ Dia is an editor for diagrams, graphs, charts etc. There is support for UML
+ static structure diagrams (class diagrams), Entity-Relationship diagrams,
+ network diagrams and much more. Diagrams can be exported to postscript and
+ many other formats.
+
+apt info dia-common:
+--------------------
+Package: dia-common
+Version: 0.97.3+git20160930-8.1
+Priority: optional
+Section: graphics
+Source: dia
+Maintainer: Rodrigo Siqueira <siqueira@ime.usp.br>
+Installed-Size: 24,6 MB
+Depends: xml-core (>= 0.14), python-gtk2
+Recommends: dia
+Homepage: https://wiki.gnome.org/Apps/Dia/
+Tag: interface::graphical, interface::x11, role::app-data, role::program,
+ suite::gnu, uitoolkit::gtk, use::editing, works-with::image,
+ works-with::image:vector, x11::application
+Download-Size: 7 300 kB
+APT-Manual-Installed: no
+APT-Sources: http://deb.debian.org/debian buster/main amd64 Packages
+Description: Diagram editor (common files)
+ Dia is an editor for diagrams, graphs, charts etc. There is support for UML
+ static structure diagrams (class diagrams), Entity-Relationship diagrams,
+ network diagrams and much more. Diagrams can be exported to postscript and
+ many other formats.
+ .
+ This package contains the architecture independent files.
+
+

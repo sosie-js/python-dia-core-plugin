@@ -1,0 +1,91 @@
+
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Road1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Road1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'StraightRoad1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - StraightRoad1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Crossroads' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Crossroads' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'T-Junction' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - T-Junction' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Elevated' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Elevated' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Corner1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Corner1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Corner2' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Corner2' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'River' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - River' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Roof1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Roof1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block2' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block2' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block3' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block3' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block4' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block4' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block5' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block5' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block6' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block6' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Block7' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Block7' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Factory' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Factory' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Car1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Car1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Car2' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Car2' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Train1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Train1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Train2' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Train2' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'Tree1' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - Tree1' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'FootBridge' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - FootBridge' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'Map, Isometric' (Isometric Directional Map Shapes),
+	 orphean object type 'OneWay' 
+	 object name SHOULD BE (GUESSING) : 'Map, Isometric - OneWay' in /usr/share/dia/sheets/IsometricMap.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Node Center' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Node Center' in /usr/share/dia/sheets/MSE.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Large Extension Node' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Large Extension Node' in /usr/share/dia/sheets/MSE.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Small Extension Node' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Small Extension Node' in /usr/share/dia/sheets/MSE.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Tactical Satellite Communications Terminal' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Tactical Satellite Communications Terminal' in /usr/share/dia/sheets/MSE.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Multiplexer' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Multiplexer' in /usr/share/dia/sheets/MSE.sheet
+WARNING:In sheet 'MSE' (U.S. Army Mobile Subscriber Equipment Components),
+	 orphean object type 'Demultiplexer' 
+	 object name SHOULD BE (GUESSING) : 'MSE - Demultiplexer' in /usr/share/dia/sheets/MSE.sheet
